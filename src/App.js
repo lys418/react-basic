@@ -8,7 +8,9 @@ class App extends Component {
   render() {
     return (
       // <MyName name="리액트" age="15"/>
+      // react test commit!!
       <Counter />
+      
     );
   }
 }
